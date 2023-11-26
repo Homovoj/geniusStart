@@ -1,2 +1,2 @@
-console.log(0.1 + 0.2, toFixed(1));
-
+let a = "Olya";
+console.log(a);
